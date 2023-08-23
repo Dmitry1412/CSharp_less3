@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\bin\Debug\net6.0\cycle.exe
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\bin\Debug\net6.0\cycle.deps.json
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\bin\Debug\net6.0\cycle.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\bin\Debug\net6.0\cycle.dll
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\bin\Debug\net6.0\cycle.pdb
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.dll
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\refint\cycle.dll
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.pdb
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\cycle.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\GITRepository\CSharp_lesson3 (lection)\cycle\obj\Debug\net6.0\ref\cycle.dll
